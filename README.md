@@ -1,2 +1,2 @@
 # imPoor-App
-Simple App!
+Simple-ANDROID-App!
